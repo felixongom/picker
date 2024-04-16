@@ -1,12 +1,13 @@
 {
-    "name": "ongom/picker",
+    "name": "ongom/random-characters",
     "description": "A PHP library for generating a spacified mumber of random characters",
     "type": "library",
     "keywords": [
         "string",
         "generate string",
         "number of charactors",
-        "random caractors",
+        "random charactors",
+        "random string",
         "charactors"
     ],
     "license": "MIT",
