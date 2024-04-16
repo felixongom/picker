@@ -1,7 +1,6 @@
-
 {
     "name": "ongom/picker",
-    "description": "Types to use Carbon in Doctrine",
+    "description": "A PHP library for generating a spacified mumber of random characters",
     "type": "library",
     "keywords": [
         "string",
@@ -10,22 +9,18 @@
         "random caractors",
         "charactors"
     ],
-    "require": {
-        "php": "^8.1"
-    },
-
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Picker\\": "Picker/"
+            "Picker\\": "src/Picker/"
         }
     },
     "authors": [
         {
             "name": "flelix ongom",
-            "email": "kylekatarnls@gmail.com"
+            "email": "felixongom2018@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {}
 }
-
